@@ -2,9 +2,11 @@
 
 A hybrid on-device function-calling system built for the Cactus x FunctionGemma hackathon. Combines rule-based regex matching with the FunctionGemma 270M model running through the Cactus inference engine to achieve near-perfect accuracy at minimal latency.
 
-**Team:** d2 crashouts | **Location:** Online
+**Team:** d2 crashouts | **Location:** Online | **Rank:** 12th globally
 
 ![Results](image.png)
+
+![Leaderboard Rank](rank.png)
 
 | Metric | Score |
 |---|---|
