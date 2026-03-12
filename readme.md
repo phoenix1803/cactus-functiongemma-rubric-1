@@ -7,7 +7,7 @@ A hybrid on-device function-calling system built for the Cactus x FunctionGemma 
 ![Results](image.png)
 
 ![Leaderboard Rank](rank.png)
-
+ 
 | Metric | Score |
 |---|---|
 | Total Score | 97.2% |
